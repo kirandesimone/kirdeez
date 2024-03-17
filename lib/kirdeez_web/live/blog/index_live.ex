@@ -10,10 +10,14 @@ defmodule KirdeezWeb.Blog.IndexLive do
       <.link navigate={~p"/"}>Home</.link>
     </p>
     <div class="grid gap-12">
-      <div class="flex">
+      <div class="flex space-x-64">
         <h1 class="font-bold text-2xl text-mint">
           Whatcha-Ma-Callems
         </h1>
+        <div class="flex space-x-2">
+          <span class="text-whiteSmoke">by</span>
+          <img class="w-10 h-10 rounded-full" src="/images/the_masterpiece.png" alt="kirdeez" />
+        </div>
       </div>
       <ul>
         <%= for post <- @posts do %>

@@ -10,9 +10,10 @@ defmodule KirdeezWeb.HomeLive do
           <p class="text-whiteSmoke text-lg">
             Just a man with a Rachel and a Nanuk.<br/>
             I try to code things in C, Rust, and Elixir but idk what I'm doing.<br/>
-            Also... I try to write about the things I learn along the way, called Whatcha-Ma-Callems. <br/>
-            I currently work at PNC Bank as a glorified help desk person (App Support Specialist)
+            Also, I try to write about the things I learn along the way, called Whatcha-Ma-Callems. <br/>
+            I currently work at PNC Bank as a glorified help desk person (App Support Specialist).
           </p>
+          <p class="text-whiteSmoke text-lg">And if you're wondering the answer is yes... I did try to buy kirdeez.nuts</p>
         </div>
       </section>
       <hr class="my-12 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-neutral-500 to-transparent opacity-25 dark:via-neutral-400"/>
